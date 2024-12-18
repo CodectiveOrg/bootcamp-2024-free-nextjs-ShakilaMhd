@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>نوبت دکتر</h1>;
+  return <h1>نوبت دکتر من</h1>;
 }
