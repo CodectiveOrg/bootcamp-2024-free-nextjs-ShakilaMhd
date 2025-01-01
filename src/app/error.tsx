@@ -29,7 +29,7 @@ export default function Error({ error, reset }: Props): ReactElement {
       </div>
       <div className={styles.trace}>
         <details>
-          <summary>لاگ خطاها</summary>
+          <summary>یلاگ خطاها</summary>
           <pre dir="ltr">{error.stack}</pre>
         </details>
       </div>
